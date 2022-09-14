@@ -20,7 +20,7 @@
 
 ## Database:
     kind: MongoDB
-    db-name : Eraconneckt-service
+    db-name :
 
 ## Setting up for Development
 
